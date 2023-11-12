@@ -7,10 +7,10 @@ Feature selection is to find the best set of features that allows one to build u
 Selecting the best features helps the model to perform well. 
 
 ## ALGORITHM
-1.Read the given Data
-2.Clean the Data Set using Data Cleaning Process
-3.Apply Feature selection techniques to all the features of the data set
-4.Save the data to the file
+1. Read the given Data
+2. Clean the Data Set using Data Cleaning Process
+3. Apply Feature selection techniques to all the features of the data set
+4. Save the data to the file
 
 ## CODE
 ```
